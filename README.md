@@ -1,3 +1,3 @@
 newGitTest
 ==========
-Here is my small beginer project
+Here is my small project
